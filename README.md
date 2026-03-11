@@ -27,7 +27,7 @@ This repository contains selected data science projects demonstrating skills in 
 [View Project])(https://github.com/vkones/PHASE-5-Food-Insecurity)
 
 ---
-## H1N1 Vaccination Behavior Analysis
+# Project 2: H1N1 Vaccination Behavior Analysis
 
 **Project Overview**
 
@@ -41,21 +41,13 @@ This project analyzes behavioral and demographic factors influencing H1N1 vaccin
 - Achieved **ROC-AUC = 0.83**, indicating strong predictive performance.
 - Identified important predictors including **risk perception, healthcare access, and demographic characteristics**.
 
-**Tools & Technologies**
-
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-Learn  
-- Matplotlib  
-
 **Repository**
 
 [View Project](https://github.com/vkones/Project-3-Machine-Learning)
 
 ---
 
-## Aviation Accident Safety Analysis
+# Project 3: Aviation Accident Safety Analysis
 
 **Project Overview**
 
@@ -68,19 +60,13 @@ This project analyzes historical aviation accident data to identify safety trend
 - Investigated relationships between **aircraft characteristics and accident severity**.
 - Built **data visualizations and dashboards** to communicate safety trends.
 
-**Tools & Technologies**
-
-- Python  
-- Pandas  
-- Tableau  
-
 **Repository**
 
 [View Project](https://github.com/vkones/dsc-phase-1-project)
 
 ---
 
-## Movie Industry Profitability Analysis
+# Project 4: Movie Industry Profitability Analysis
 
 **Project Overview**
 
@@ -94,12 +80,6 @@ This team project analyzes film industry data to understand the factors that inf
 - Developed visualizations highlighting **revenue trends and audience preferences**.
 - Generated insights to support **data-driven decision-making for film production investments**.
 
-**Tools & Technologies**
-
-- Python  
-- Pandas  
-- Matplotlib  
-- Seaborn  
 
 **Repository**
 

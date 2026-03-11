@@ -5,7 +5,7 @@ This repository contains selected data science projects demonstrating skills in 
 # Project 1: Created County-Level Acute Food Insecurity Early Warning System (Kenya)
 
 **Project Overview**
-> ![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/newplot.png)
+ ![](Images/newplot.png)
 
 - Developed a **county-level early warning system** to predict **acute food insecurity (IPC Phase 3+) in Kenya one month in advance**, enabling earlier identification of high-risk regions for policy and humanitarian response.
 
@@ -23,7 +23,7 @@ This repository contains selected data science projects demonstrating skills in 
 
 - Deployed the final model on **Hugging Face Spaces** as an **interactive dashboard application**, enabling users to explore **county-level predictions and visualize food insecurity risk trends** in real time.
 
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/output.png)
+![](Images/output.png)
 
 **Repository**
 
@@ -34,7 +34,7 @@ This repository contains selected data science projects demonstrating skills in 
 
 ---
 # Project 2:Movie Recommendation System
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/mov_img.jpg)
+![](Images/mov_img.jpg)
 
 **Project Overview**
 
@@ -49,7 +49,7 @@ Developed a **personalized movie recommendation engine** that predicts user pref
 - Performed **error analysis and residual diagnostics** to assess prediction bias and model reliability across rating ranges.
 - Designed a **Top-N recommendation pipeline** capable of generating personalized movie suggestions for users.
 
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/Distribution%20of%20Users%20and%20Ratings.png)
+![](Images/.png)
 
 **Repository**
 

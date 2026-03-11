@@ -73,7 +73,7 @@ This project analyzes behavioral and demographic factors influencing H1N1 vaccin
 - Achieved **ROC-AUC = 0.83**, indicating strong predictive performance.
 - Identified important predictors including **risk perception, healthcare access, and demographic characteristics**.
 
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/log_odds.png)
+![](Images/log_odds.png)
 
 **Repository**
 
@@ -82,7 +82,7 @@ This project analyzes behavioral and demographic factors influencing H1N1 vaccin
 ---
 
 # Project 4: Aviation Accident Safety Analysis
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/plane2.jpg)
+![](Images/plane2.jpg)
 
 **Project Overview**
 
@@ -95,7 +95,7 @@ This project analyzes historical aviation accident data to identify safety trend
 - Investigated relationships between **aircraft characteristics and accident severity**.
 - Built **data visualizations and dashboards** to communicate safety trends.
 
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/Aviation%20accidents%20Dashboard.png)
+![](Images/Aviation%20accidents%20Dashboard.png)
 
 **Repository**
 
@@ -120,7 +120,7 @@ This team project analyzes film industry data to understand the factors that inf
 - Developed visualizations highlighting **revenue trends and audience preferences**.
 - Generated insights to support **data-driven decision-making for film production investments**.
 
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/Average%20Profitability%20by%20Genre.png)
+![](Images/Average%20Profitability%20by%20Genre.png)
 **Repository**
 
 [View Project](https://github.com/MrDenzy/Phase-2-Project)

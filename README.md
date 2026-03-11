@@ -101,6 +101,9 @@ This project analyzes historical aviation accident data to identify safety trend
 
 [View Project](https://github.com/vkones/dsc-phase-1-project)
 
+**Tableau Dashboard**
+[Aviation.viz](https://public.tableau.com/views/Aviationviz_17594164483220/AviationaccidentsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 # Project 5: Movie Industry Profitability Analysis

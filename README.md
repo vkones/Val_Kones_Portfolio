@@ -57,7 +57,9 @@ Developed a **personalized movie recommendation engine** that predicts user pref
 
 ---
 # Project 3: H1N1 Vaccination Behavior Analysis
-![](https://github.com/vkones/Valary_Kones_Portfolio/blob/main/Images/H1N1_Vaccine.jpg)
+<p align="center">
+  <img src="Images/H1N1_Vaccine.jpg" width="95%"/>
+</p>
 
 **Project Overview**
 

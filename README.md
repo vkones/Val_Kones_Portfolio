@@ -2,7 +2,7 @@
 This repository contains selected data science projects demonstrating skills in data cleaning, exploratory data analysis (EDA), machine learning, and data visualization. The projects focus on transforming real-world datasets into actionable insights using Python and modern data analysis tools.
 
 ---
-# [Project 1: Created County-Level Acute Food Insecurity Early Warning System (Kenya)](https://github.com/vkones/PHASE-5-Food-Insecurity)
+# Project 1: Created County-Level Acute Food Insecurity Early Warning System (Kenya)
 
 **Project Overview**
 
@@ -22,4 +22,99 @@ This repository contains selected data science projects demonstrating skills in 
 
 - Deployed the final model on **Hugging Face Spaces** as an **interactive dashboard application**, enabling users to explore **county-level predictions and visualize food insecurity risk trends** in real time.
 
+**Repository**
+
+[View Project])(https://github.com/vkones/PHASE-5-Food-Insecurity)
+
 ---
+## H1N1 Vaccination Behavior Analysis
+
+**Project Overview**
+
+This project analyzes behavioral and demographic factors influencing H1N1 vaccination uptake using predictive modeling techniques.
+
+**Key Contributions**
+
+- Conducted **exploratory data analysis (EDA)** to identify patterns in vaccination behavior.
+- Built predictive models using **logistic regression and machine learning algorithms** with Scikit-Learn.
+- Evaluated model performance using **ROC-AUC, precision, recall, and F1-score**.
+- Achieved **ROC-AUC = 0.83**, indicating strong predictive performance.
+- Identified important predictors including **risk perception, healthcare access, and demographic characteristics**.
+
+**Tools & Technologies**
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- Matplotlib  
+
+**Repository**
+
+[View Project](https://github.com/vkones/Project-3-Machine-Learning)
+
+---
+
+## Aviation Accident Safety Analysis
+
+**Project Overview**
+
+This project analyzes historical aviation accident data to identify safety trends and operational risk factors across aircraft types and engine configurations.
+
+**Key Contributions**
+
+- Processed and analyzed **60+ years of aviation accident data**.
+- Conducted exploratory analysis to identify **patterns in accident frequency and survivability**.
+- Investigated relationships between **aircraft characteristics and accident severity**.
+- Built **data visualizations and dashboards** to communicate safety trends.
+
+**Tools & Technologies**
+
+- Python  
+- Pandas  
+- Tableau  
+
+**Repository**
+
+[View Project](https://github.com/vkones/dsc-phase-1-project)
+
+---
+
+## Movie Industry Profitability Analysis
+
+**Project Overview**
+
+This team project analyzes film industry data to understand the factors that influence movie profitability and audience engagement.
+
+**Key Contributions**
+
+- Integrated multiple datasets containing **movie budgets, revenues, genres, and audience ratings**.
+- Performed **data cleaning and exploratory data analysis** to uncover profitability patterns.
+- Investigated relationships between **budget, genre, and box office performance**.
+- Developed visualizations highlighting **revenue trends and audience preferences**.
+- Generated insights to support **data-driven decision-making for film production investments**.
+
+**Tools & Technologies**
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+**Repository**
+
+[View Project](https://github.com/MrDenzy/Phase-2-Project)
+
+---
+
+# Skills Demonstrated
+
+- Data Cleaning and Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Machine Learning  
+- Statistical Analysis  
+- Data Visualization  
+
+**Tools:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Tableau, Jupyter Notebook
+

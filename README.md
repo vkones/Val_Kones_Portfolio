@@ -26,6 +26,9 @@ This repository contains selected data science projects demonstrating skills in 
 
 [View Project])(https://github.com/vkones/PHASE-5-Food-Insecurity)
 
+**Live Application:**  
+[View Interactive Dashboard](https://huggingface.co/spaces/mcshoja/FoodInsecurityDashboard)
+
 ---
 # Project 2: H1N1 Vaccination Behavior Analysis
 
